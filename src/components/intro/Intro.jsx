@@ -27,7 +27,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Yash Shah</span>
           <span>
           My personal area of interest as well as research area is Computer and Cyber Security. I have completed 2 specialization in the same domain from University of Colorado Systems viz. Applied Cryptography and Cybersecurity for Business. I also completed a guided project on Web Application Security Testing with OWASP ZAP.
