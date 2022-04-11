@@ -28,10 +28,9 @@ const Intro = () => {
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
-          <span>Andrew Thomas</span>
+          <span>Yash Shah</span>
           <span>
-            Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work
+          My personal area of interest as well as research area is Computer and Cyber Security. I have completed 2 specialization in the same domain from University of Colorado Systems viz. Applied Cryptography and Cybersecurity for Business. I also completed a guided project on Web Application Security Testing with OWASP ZAP.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
